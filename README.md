@@ -1,5 +1,5 @@
 ### EX7 Implementation of Link Analysis using HITS Algorithm
-### DATE: 05-05-2024
+### DATE: 07-05-2024
 ### AIM: 
 To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
